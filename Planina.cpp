@@ -19,4 +19,6 @@ int main()
     }
 
     cout << num * num << endl;
+    
+    return 0;
 }
